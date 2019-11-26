@@ -11,3 +11,8 @@ td {
 img {
     width: 350px;
 }
+
+div {
+    border: 10px solid black;
+    padding: 5px;
+}
